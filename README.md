@@ -3,6 +3,7 @@
 I'm Fanil', a self-motivated tech enthusiast and Golang/C# developer.
 
 💬 connect [@Fangimal](https://t.me/Fangimal)  
+:email: mail: gimalfan@gmail.com 
 <!--
 **fangimal/fangimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
